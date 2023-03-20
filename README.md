@@ -2,7 +2,7 @@
 
 
 --- 
-# Steps to take when approaching a data analytics project - Documentation:
+# Steps to follow when approaching data analytics projects - Documentation:
 
 
 --- 
@@ -22,4 +22,4 @@
 
 
 ---
-5. Share your insights with the stakeholders by engaging them in conversation and follow up by ensuring the recommendations are acted upon.
+5. Share your insights with the stakeholders by engaging them in conversation and follow up to ensure the recommendations are acted upon.
